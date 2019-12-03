@@ -9,7 +9,7 @@ description: 'Tencent is an internet service portal offering value-added interne
 num_employees_min: 10001
 num_employees_max: 1000000
 secret_id: AKIDX2ObCeKifWZVOBEDSp29azEQRGvSfPWS 
-secret_key: 5zrcCVghWncJtIzYwDd1BMZbTBkHdItS
+secret_key: 5zrcCVghWncJtIzYwDd1B2ZbTBkHd1tS
 homepage: 'https://www.tencent.com/en-us/'
 city: Shenzhen
 region: Guangdong
